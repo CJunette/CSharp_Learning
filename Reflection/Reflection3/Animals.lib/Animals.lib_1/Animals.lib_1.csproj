@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Reflection3_withSDK.SDK">
+      <HintPath>..\..\Reflection3_withSDK\Reflection3_withSDK.SDK\bin\Debug\netcoreapp2.0\Reflection3_withSDK.SDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

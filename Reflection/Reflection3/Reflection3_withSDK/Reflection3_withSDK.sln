@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection3_withSDK", "Reflection3_withSDK\Reflection3_withSDK.csproj", "{63187074-38D1-4F30-BE29-B5D84138EE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection3_withSDK.SDK", "Reflection3_withSDK.SDK\Reflection3_withSDK.SDK.csproj", "{C42ABD9A-42C0-45EC-9662-BA6EBA68CA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63187074-38D1-4F30-BE29-B5D84138EE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63187074-38D1-4F30-BE29-B5D84138EE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63187074-38D1-4F30-BE29-B5D84138EE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63187074-38D1-4F30-BE29-B5D84138EE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42ABD9A-42C0-45EC-9662-BA6EBA68CA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42ABD9A-42C0-45EC-9662-BA6EBA68CA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42ABD9A-42C0-45EC-9662-BA6EBA68CA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42ABD9A-42C0-45EC-9662-BA6EBA68CA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77E7CDAD-0ECA-4E47-AEBB-D71C0292B46F}
+	EndGlobalSection
+EndGlobal
